@@ -1,0 +1,5 @@
+[submodule "src"]
+	path = src
+	url = https://github.com/matthew-wozniczka
+	branch = bugfix/ICU-23271
+
